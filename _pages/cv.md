@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * [B.S. in Bioinformatics](https://biology.ucsd.edu/education/undergrad/maj-min/majors/fall20-later/bioinformatics.html), [University of California, San Diego](https://ucsd.edu), 2019-2022
-* [M.S. in Data Science](https://datascience.ucsd.edu/graduate/ms-program/), University of California, San Diego, 2022-2024 (expected)
+* [M.S. in Data Science](https://datascience.ucsd.edu/graduate/ms-program/), University of California, San Diego, 2022-2024
+* [Ph.D in Brain and Cognitive Sciences](https://bcs.mit.edu/academic-program/brain-and-cognitive-sciences-phd-program), Massachussetts Institute of Technology, 2024-2029 (expected)
 
 Work experience
 ======
